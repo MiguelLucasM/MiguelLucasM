@@ -1,0 +1,5 @@
+selenium>=4.15.0
+openpyxl>=3.1.0
+# pyautogui é necessário apenas se for usar o fallback de anexo
+# via janela nativa do Windows (ver anexar_arquivo em robo_agilis.py)
+pyautogui>=0.9.54

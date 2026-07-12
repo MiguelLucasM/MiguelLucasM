@@ -1,0 +1,9 @@
+# Artefatos de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Saídas de execução do robô (log e screenshots de erro)
+robo_agilis.log
+erro_linha_*.png
